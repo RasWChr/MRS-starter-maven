@@ -2,7 +2,7 @@ package dk.easv.mrs.DAL;
 import dk.easv.mrs.BE.Movie;
 import java.util.ArrayList;
 import java.util.List;
-
+/*
 public class MovieDAO_Mock implements IMovieDataAccess {
 
     private List<Movie> allMovies;
@@ -35,4 +35,4 @@ public class MovieDAO_Mock implements IMovieDataAccess {
 
     }
 
-}
+}*/

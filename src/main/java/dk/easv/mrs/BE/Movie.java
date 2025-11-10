@@ -6,12 +6,14 @@ public class Movie {
     private String title;
     private int year;
 
+    //Constructor
     public Movie(int id, int year, String title) {
         this.id = id;
         this.title = title;
         this.year = year;
     }
 
+    // getters and setters for ID, Title and Year
     public int getId() {
         return id;
     }

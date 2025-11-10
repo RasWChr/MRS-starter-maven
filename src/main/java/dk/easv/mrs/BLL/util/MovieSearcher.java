@@ -5,7 +5,11 @@ import java.util.List;
 
 public class MovieSearcher {
 
-
+    /*searches the movie list
+    uses a for loop to look through the list
+    and compares the movie title and year to any movie in the array
+    then adds the movie to the search result if it is there
+    * */
     public List<Movie> search(List<Movie> searchBase, String query) {
         List<Movie> searchResult = new ArrayList<>();
 
